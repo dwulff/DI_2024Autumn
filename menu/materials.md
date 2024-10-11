@@ -14,7 +14,7 @@ e {
 
 <br><br>
 
-## Friday, 27.10.
+## Friday, 25.10.
 
 #### <a href="https://forms.gle/LMj5FE34rM6vwStk6">Attendance form</a>
 
@@ -35,11 +35,11 @@ e {
 
 #### Lean coffee
 
-<a href="https://www.leancoffeetable.com/TaskBoard/View/c9150eed-8a81-4214-a7d0-0448a58116a0?guest=true">Join by clicking here</a>
+<a href="">Join by clicking here</a>
 
 <br><br>
 
-## Friday, 10.11.
+## Friday, 8.11.
 
 #### Readings (mandatory)
 
@@ -59,17 +59,17 @@ e {
 
 #### Lean coffee
 
-<a href="https://www.leancoffeetable.com/TaskBoard/View/c9150eed-8a81-4214-a7d0-0448a58116a0?guest=true">Join by clicking here</a>
+<a href="">Join by clicking here</a>
 
 <br><br>
 
-## Saturday, 11.11.
+## Saturday, 9.11.
 
 #### Schedule
 
 9-10	Debate preparation (on your own)<br>
 10-11	Debate preparation (on your own)<br>
-11-12	Debate preparation (on your own)<br>
+11-12	Debate preparation (on your own)<br>  
 11-12	Debate preparation (on your own)<br>
 13-14	Debate 1: Heuristics<br>
 14-15	Debate 2: AI<br>
